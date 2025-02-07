@@ -1,0 +1,14 @@
+/* Hotels.css */
+.stack-container {
+    margin-top: 40px;
+  }
+  
+  .grid-container {
+    display: flex;
+    gap: 16px; /* Optional for better layout, equivalent to spacing prop */
+  }
+  
+  .grid-item {
+    flex: 1;
+  }
+  
